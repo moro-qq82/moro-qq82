@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 * pythonを用いた画像処理 2年以上
 * 半導体量産データ解析 1年以上
 * 半導体プロセス開発経験 約1年
-* 業務での深層学習使用経験 1年以上
 * 課題発見と企画立ち上げ推進経験 約1年
 
 ### その他
